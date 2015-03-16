@@ -4,6 +4,6 @@ import (
 	"testing"
 )
 
-func TestStateMachineSimple(t *testing.T) {
-	dicomStateMachineExec()
-}
+// func TestStateMachineSimple(t *testing.T) {
+// 	dicomStateMachineExec()
+// }
